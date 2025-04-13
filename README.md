@@ -1,6 +1,5 @@
 # XXX-company-interview
-if you want to know how the big tech giants conduct interviews, then this repos is for you.
-it has the interview question in PDF and its solution in Python language.
+
 
 a snippet of code & output:
 
